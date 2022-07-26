@@ -1,3 +1,4 @@
+//Ejercicio de Preguntas javascript
 const Inicio = document.querySelector(".start_btn button");
 const Reglas = document.querySelector(".info_box");
 const Siguiente = Reglas.querySelector(".buttons .restart");
